@@ -3,7 +3,7 @@
   * *Made in Unity and with C#*  
 ![Picture of Generated City](https://github.com/preston-n/CityPCG/blob/main/Screenshots/City2.png?raw=true)
 
-#Options
+# Options
   * The city is created based on the options set in ‘Data\Options.txt’ the options are as follows:
     * MaxBuildingHeight [Controls the max height(z) of the building]
     * MinBuildingHeight [Controls the minimum height(z) of the building]
