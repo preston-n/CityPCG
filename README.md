@@ -9,4 +9,3 @@
 
 ![Picture of Generated City](https://github.com/preston-n/CityPCG/blob/main/Screenshots/City1.png?raw=true)
 
-![Picture of Generated City](https://github.com/preston-n/CityPCG/blob/main/Screenshots/City4.png?raw=true)
