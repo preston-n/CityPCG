@@ -13,9 +13,10 @@ The city is created using a custom algorithm, however some settings can be custo
 The algorithm for generating the city uses gaussian random which is used for two parts of the specific parts of the city creation algorithm. The first part is for controlling the sizes of the buildings, this includes their length, width and height. This is so that most buildings will be close in relative size and gives a better effect than just using  the default ‘rand random’. The second part is for controlling the position of the buildings in the city. This only affects buildings positioning in the x and y direction on the city grid size that is defined by the user. By using gaussian random for the position of buildings we get the nice effect of all the buildings in the middle of the city being close together and dense and the further you go out from the middle to the edges of the city the less buildings there are close to each other and it is more sparse. 
 
 # Screenshots
+### Inside the city
 ![Picture of Generated City](https://github.com/preston-n/CityPCG/blob/main/Screenshots/City2.png?raw=true)
-      
+### Close up on buildings
 ![Picture of Generated City](https://github.com/preston-n/CityPCG/blob/main/Screenshots/City3.png?raw=true)
-
+### Overview of the city
 ![Picture of Generated City](https://github.com/preston-n/CityPCG/blob/main/Screenshots/City1.png?raw=true)
 
