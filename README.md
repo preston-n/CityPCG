@@ -1,7 +1,7 @@
 # City PCG Tool
   * **Description:** A tool made for creating virtual cities of varying buildings and layouts with procedural content generation systems
   * *Made in Unity and with C#*  
-# Info
+# Tool Information
 ### Creating the buildings
 The buildings use a tile based system for their creation. Tiles are combined one by one in order to create one part of the building, such as the face or the side of the building. Once all the parts of the building have been created, they are connected to each other. Some tiles can only be placed if they meet a certain requirement, such as window tiles can’t be placed on the first layer and roof tiles can only appear on the roof part of the building. This prevents the structures from ever looking strange or random. 
 
